@@ -1,0 +1,13 @@
+./separator_big5.pl corpus.txt >corpus_seg.txt
+./separator_big5.pl testdata/1.txt >testdata_seg/1.txt
+./separator_big5.pl testdata/2.txt >testdata_seg/2.txt
+./separator_big5.pl testdata/3.txt >testdata_seg/3.txt
+./separator_big5.pl testdata/4.txt >testdata_seg/4.txt
+./separator_big5.pl testdata/5.txt >testdata_seg/5.txt
+./separator_big5.pl testdata/6.txt >testdata_seg/6.txt
+./separator_big5.pl testdata/7.txt >testdata_seg/7.txt
+./separator_big5.pl testdata/8.txt >testdata_seg/8.txt
+./separator_big5.pl testdata/9.txt >testdata_seg/9.txt
+./separator_big5.pl testdata/10.txt >testdata_seg/10.txt
+./separator_big5.pl testdata/example.txt >testdata_seg/example.txt
+./separator_big5.pl testdata/example_ans.txt >testdata_seg/example_ans.txt
